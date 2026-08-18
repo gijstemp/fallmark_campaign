@@ -16,11 +16,37 @@ Your character is part of a newly formed band starting out in **Coppervane**, a 
 
 - We're using the 2024 ("5.5e") **weapon mastery** properties.
 - A few specific character-build choices from a previous campaign are intentionally being left out this time. The exact list is still being finalized and will be confirmed at Session Zero rather than guessed at here.
-- Lasting wounds and exhaustion (see [Table Expectations]({{ '/table/' | relative_url }})) are staying in, rather than a full heal on every long rest.
+- Lasting injuries and exhaustion (see [Table Expectations]({{ '/table/' | relative_url }})) are staying in, rather than a full heal on every long rest.
+
+## Source Material
+
+All official D&D 5e sourcebooks are fair game for character creation, subclasses, spells, and races included, with a few exceptions: **Spelljammer, Planescape, Ravnica, and Eberron** are off the table for this campaign. Outside of those four, if it's official, you can use it.
+
+## Ability Scores
+
+Pick one of these three methods to generate your six ability scores:
+
+- **Point buy.** 27 points to spend, values between 8 and 15 before racial modifiers.
+- **Standard array.** 15, 14, 13, 12, 10, 8, assigned however you like.
+- **4d6, drop the lowest.** Roll four six-sided dice per ability, drop the lowest die, keep the rest. We'll walk through this one together at the table if you want to use it.
 
 ## Race and Background
 
 Any of the peoples described on the [Peoples of Aethermere]({{ '/peoples/' | relative_url }}) page are fair game. You don't need to justify your choice with a deep backstory. A character who's never thought about their culture's history is just as valid as one who carries it closely. If you want your background to tie into a specific region, faction, or piece of history, this is a great time to ask questions.
+
+## Backstory Development
+
+A good backstory does two things: it gives you a reason to be out here doing this, and it gives me material to build your character into the world with. A few things to think through before Session Zero.
+
+**Motivation and purpose.** Your character needs a real reason to adventure. We'll settle the details together at Session Zero, but come in with a few ideas already in mind: what does your character want to achieve, protect, or find?
+
+**Character arc.** Think about how you'd like your character to grow over the campaign. What experiences do they need? What are they afraid of, or hoping for? Is there anything you'd specifically rather avoid? Bring these ideas and we'll weave them into the story, though what actually happens won't always go the way you pictured it.
+
+**Knives.** A "knife" is a loose thread in your backstory I can pick up and use later: a rival, a lost love, a family secret, anything that could resurface and put your character in a personally difficult spot. Come with at least a couple. ([Background on the concept, if you want more detail.](https://www.reddit.com/r/DnD/comments/775caq/my_friends_and_i_have_something_called_knife/))
+
+## Past Life Bonuses
+
+Pick up to three experiences, skills, or bits of knowledge from your backstory that could give you a situational edge at the table. A blacksmith's apprentice, for example, might get advantage on checks involving metalwork, or be able to spot the quality of a weapon or piece of armor at a glance. These only apply where your history would actually justify it, so the more specific and grounded the idea, the better it'll work in play.
 
 ## Bringing It to the Table
 
