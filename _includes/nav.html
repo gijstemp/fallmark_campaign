@@ -1,0 +1,21 @@
+<header class="site-banner">
+  <a class="site-banner-link" href="{{ '/' | relative_url }}">
+    <span class="site-banner-glyph" aria-hidden="true">&#9813;</span>
+    <span class="site-banner-title">{{ site.title }}</span>
+  </a>
+  <p class="site-banner-tagline">{{ site.description }}</p>
+</header>
+
+<input type="checkbox" id="nav-toggle" class="nav-toggle-checkbox">
+<label for="nav-toggle" class="nav-toggle-label" aria-hidden="true"><span></span><span></span><span></span></label>
+
+<nav class="site-nav">
+  <ul>
+    {% for item in site.nav %}
+      <li>
+        <a href="{{ item.url | relative_url }}"
+           class="{% if page.nav_key == item.key %}active{% endif %}">{{ item.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>

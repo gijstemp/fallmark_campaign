@@ -1,0 +1,65 @@
+title: "The Fracturing"
+description: "A campaign guide for the players — Aethermere, before Session Zero"
+author: "Your DM"
+
+# Update this once you know the GitHub repo name, e.g. https://username.github.io/repo-name
+# baseurl: "/repo-name"
+# url: "https://username.github.io"
+baseurl: ""
+url: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-relative-links
+
+# Left-to-right order of the top navigation bar.
+# Each entry needs a matching page with the same `nav_key` in its front matter and
+# a `permalink` set to the matching `url` below.
+nav:
+  - key: home
+    title: "Home"
+    url: "/"
+  - key: world
+    title: "The World"
+    url: "/world/"
+  - key: fracturing
+    title: "The Fracturing"
+    url: "/fracturing/"
+  - key: peoples
+    title: "Peoples of Aethermere"
+    url: "/peoples/"
+  - key: factions
+    title: "Factions"
+    url: "/factions/"
+  - key: gods
+    title: "The Unnamed"
+    url: "/gods/"
+  - key: band-life
+    title: "Life as a Band"
+    url: "/band-life/"
+  - key: table
+    title: "Table Expectations"
+    url: "/table/"
+  - key: characters
+    title: "Character Creation"
+    url: "/characters/"
+  - key: sessions
+    title: "Session Recaps"
+    url: "/sessions/"
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
