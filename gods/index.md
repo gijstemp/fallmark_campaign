@@ -24,6 +24,48 @@ Undying (death & transition) · Deepmind (knowledge & secrets) · Green (nature 
 
 Most people in the world don't think about their faith at this level of theory any more than they think about the mechanics of walking. They know a name, a shrine, a ritual their family has always kept. The underlying framework is background, not something anyone needs explained to them at the dinner table.
 
+## Gods Built From Several Forces At Once
+
+Most people don't actually worship an abstract force. They worship a god with a face and a story, built by their own culture out of whichever two or three forces the job actually called for. This is completely normal, and just as real as worshipping a single force directly: the resonance doesn't care how many forces a devotion touches at once, only that the devotion is sincere.
+
+There's no master list of these. Every region built its own, and the same combination of forces can carry a completely different name a few hundred miles away. Here are six well-established ones, and a few of the names people actually call them by:
+
+<div class="card-grid">
+
+<div class="card">
+<h3>The War God</h3>
+<p><em>Ember + Scale + Loom.</em> A cause worth fighting for, weighed against what the fight costs. Known as the <strong>Line-Holder</strong> in the Ironpeak border garrisons, the <strong>Reckoning Blade</strong> among Central Plains mercenary companies, or just <strong>Old Steady</strong> to the soldiers who actually pray to it.</p>
+</div>
+
+<div class="card">
+<h3>Love &amp; Devotion</h3>
+<p><em>Hollow + Ember.</em> Love proven by what you're willing to lose. Known as the <strong>Kept Promise</strong> at Central Plains weddings, the <strong>Waiting Light</strong> among Deepwater sailors' families, or the <strong>Faithful Distance</strong> in halfling diaspora communities.</p>
+</div>
+
+<div class="card">
+<h3>Trade &amp; the Long Road</h3>
+<p><em>Forge + Wanderer.</em> What you make, carried to wherever it's needed. Known as the <strong>Loaded Cart</strong> in Central Plains trade towns, the <strong>Fair Current</strong> among Deepwater merchant sailors, or the <strong>Honest Weight</strong> in Ironpeak dwarven guilds.</p>
+</div>
+
+<div class="card">
+<h3>The Hunt</h3>
+<p><em>Green + Scale.</em> Take only what balance allows. Known as the <strong>Rightful Kill</strong> in the Verdant Interior, the <strong>Fair Chase</strong> among Northern Reaches trappers, or the <strong>Old Huntsman</strong> at common rural shrines everywhere.</p>
+</div>
+
+<div class="card">
+<h3>The Trickster</h3>
+<p><em>Mask + Loom.</em> The shape luck takes, and the faces it wears while taking it. Known as the <strong>Turning Coin</strong> in gambling houses, the <strong>Painted Fate</strong> in Vanthorpe's theater district, or the <strong>Sly Weave</strong> among thieves and information brokers.</p>
+</div>
+
+<div class="card">
+<h3>Hearth &amp; Home</h3>
+<p><em>Undying + Forge.</em> What a family builds, and what outlasts them. Known as the <strong>Kept Flame</strong> in almost every household shrine, the <strong>Carved Hearth</strong> in dwarven clan tradition, or the <strong>Rebuilt Door</strong> among Central Plains halflings.</p>
+</div>
+
+</div>
+
 ## What This Means for Your Character
 
 You don't need a fully worked-out theology to play a cleric, paladin, or any character with a faith. Pick a force that resonates with who your character is (or pick a specific, local name for one of these forces that fits their culture), and the rest can develop at the table. A character doesn't need to consciously worship anything to be aligned with a force, either: someone who's spent their life standing between danger and the people they love is Ember-aligned whether they've ever set foot in a shrine or not.
+
+You can also just as easily worship one of the combined gods above instead of a single force, or invent your own. If your character prays to "a god of war" or "a god of luck," tell me which two or three forces that god is actually built from, and we'll give it a real name and a real home in the world together. Mechanically it changes nothing: you'd still play the same cleric or paladin, just with a more personal god behind the magic.
