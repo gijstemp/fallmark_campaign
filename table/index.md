@@ -48,7 +48,7 @@ These are mostly carried over from the last campaign. They worked, so we're keep
 
 ### Character and World
 
-- **I know a guy.** Once per campaign, you can announce that your character knows somebody who can help with whatever's happening right now. That NPC has to make sense for your backstory and the situation, but once you name them, they're real: a permanent part of the world and campaign from that point on.
+- **I know a guy.** Every now and then (when it makes sense and per the DM's discression), you can announce that your character knows somebody who can help with whatever's happening right now. That NPC has to make sense for your backstory and the situation, but once you name them, they're real: a permanent part of the world and campaign from that point on.
 - **Magic item identification.** Magic items don't identify themselves the moment you pick them up. You'll need to cast *Identify*, or spend time experimenting with the item, to learn what it actually does.
 - **Weapon mastery.** We're using the 2024 ("5.5e") weapon mastery properties.
 
