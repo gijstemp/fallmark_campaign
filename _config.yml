@@ -2,11 +2,9 @@ title: "The Fracturing"
 description: "A campaign guide for the players: Aethermere, before Session Zero"
 author: "Your DM"
 
-# Update this once you know the GitHub repo name, e.g. https://username.github.io/repo-name
-# baseurl: "/repo-name"
-# url: "https://username.github.io"
-baseurl: ""
-url: ""
+# Repo: https://github.com/gijstemp/fallmark_campaign
+baseurl: "/fallmark_campaign"
+url: "https://gijstemp.github.io"
 
 markdown: kramdown
 kramdown:
