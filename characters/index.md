@@ -26,9 +26,9 @@ All official D&D 5e sourcebooks are fair game for character creation, subclasses
 
 Pick one of these three methods to generate your six ability scores:
 
-- **Point buy.** 27 points to spend, values between 8 and 15 before racial modifiers.
+- **Point buy.** 72 points to spend, values between 6 and 16 before racial modifiers. Complete freedom to do what you want. 
 - **Standard array.** 15, 14, 13, 12, 10, 8, assigned however you like.
-- **4d6, drop the lowest.** Roll four six-sided dice per ability, drop the lowest die, keep the rest. We'll walk through this one together at the table if you want to use it.
+- **4d6, drop the lowest alternative** Roll four six-sided dice, drop the lowest die, keep the rest. Ceiling = 16, floor = 6. Do this 5 times. The 6th value is the difference to 72 (min 6). Higher than 72 means subtracting elsewhere. Total always needs to be 72. We'll walk through this one together at the table if you want to use it.
 
 ## Race and Background
 
