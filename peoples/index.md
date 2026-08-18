@@ -6,9 +6,9 @@ title: "Peoples of Aethermere"
 subtitle: "Where you're from matters more than what you look like"
 ---
 
-Cultural tension in Aethermere isn't drawn along racial lines. A Deepwater elf and a Verdant Interior elf can find far less common ground than a Deepwater elf and a Deepwater human standing next to them. Where you're from, what your community lived through, and what it lost in the Fragment Wars shapes how the world sees you — far more than your ancestry does.
+Cultural tension in Aethermere isn't drawn along racial lines. A Deepwater elf and a Verdant Interior elf can find far less common ground than a Deepwater elf and a Deepwater human standing next to them. Where you're from, what your community lived through, and what it lost in the Fragment Wars shapes how the world sees you, far more than your ancestry does.
 
-That doesn't mean the world is free of prejudice. It means prejudice here has a history behind it, not just a shape. Feel free to lean into that when you build your character — a specific grudge or a specific loyalty will always read as more real at the table than a generic racial trait.
+That doesn't mean the world is free of prejudice. It means prejudice here has a history behind it, not just a shape. Feel free to lean into that when you build your character. A specific grudge or a specific loyalty will always read as more real at the table than a generic racial trait.
 
 ## The Peoples
 
@@ -26,7 +26,7 @@ That doesn't mean the world is free of prejudice. It means prejudice here has a 
 
 <div class="card">
 <h3>Halflings</h3>
-<p>Once the Central Plains' original people, displaced across sixty years of war fought over land the Fracturing made suddenly valuable. Now found everywhere — genuinely cosmopolitan, carrying their history through story and ritual rather than grievance.</p>
+<p>Once the Central Plains' original people, displaced across sixty years of war fought over land the Fracturing made suddenly valuable. Now found everywhere, properly cosmopolitan, carrying their history through story and ritual rather than grievance.</p>
 </div>
 
 <div class="card">
@@ -36,7 +36,7 @@ That doesn't mean the world is free of prejudice. It means prejudice here has a 
 
 <div class="card">
 <h3>Gnomes</h3>
-<p>Recent arrivals by Fallmark's standards, and technologically inventive in ways that make their neighbors nervous — not without reason. Gnomish innovation moves fast; the consequences of getting it wrong don't always land on the gnomes themselves.</p>
+<p>Recent arrivals by Fallmark's standards, and technologically inventive in ways that make their neighbors nervous, not without reason. Gnomish innovation moves fast; the consequences of getting it wrong don't always land on the gnomes themselves.</p>
 </div>
 
 <div class="card">
@@ -51,12 +51,12 @@ That doesn't mean the world is free of prejudice. It means prejudice here has a 
 
 <div class="card">
 <h3>Aasimar</h3>
-<p>Not celestial by descent — the product of generations of genuine, sustained devotion to one of the Unnamed forces (see <a href="{{ '/gods/' | relative_url }}">The Unnamed</a>), inherited so completely it becomes physical. Rare, and always significant within the community that produced them.</p>
+<p>Not celestial by descent: the product of generations of genuine, sustained devotion to one of the Unnamed forces (see <a href="{{ '/gods/' | relative_url }}">The Unnamed</a>), inherited so completely it becomes physical. Rare, and always significant within the community that produced them.</p>
 </div>
 
 <div class="card">
 <h3>Genasi</h3>
-<p>Touched by the Fracturing's elemental extremes — fire genasi from the volcanic eastern Archipelago, air genasi from the high Ironpeak passes, and so on. The eastern fire genasi communities are the oldest and most culturally distinct.</p>
+<p>Touched by the Fracturing's elemental extremes: fire genasi from the volcanic eastern Archipelago, air genasi from the high Ironpeak passes, and so on. The eastern fire genasi communities are the oldest and most culturally distinct.</p>
 </div>
 
 <div class="card">
@@ -68,4 +68,4 @@ That doesn't mean the world is free of prejudice. It means prejudice here has a 
 
 ## A Note on Playing Any of These
 
-None of this is meant to box your character in. These are starting points — the texture your character's community might carry, not a script you have to follow. A halfling who's never once thought about the Ashfield rim, or a dwarf who left the mountains and never looked back, is exactly as valid as one who carries their culture's history close.
+None of this is meant to box your character in. These are starting points: the texture your character's community might carry, not a script you have to follow. A halfling who's never once thought about the Ashfield rim, or a dwarf who left the mountains and never looked back, is exactly as valid as one who carries their culture's history close.
