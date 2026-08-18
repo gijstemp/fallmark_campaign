@@ -6,7 +6,7 @@ title: "The World"
 subtitle: "Aethermere, at a glance"
 ---
 
-**Aethermere** is an ocean world built around one great continent, **Fallmark**, and a scattering of islands that orbit it as much culturally as geographically. Fallmark is large enough that crossing it corner to corner takes the better part of two months on foot, even on good roads. Nobody actually makes that trip. Real journeys follow the roads and rivers between the places that matter.
+**Aethermere** is a large world that hosts a large number of continents, one of them being **Fallmark**, and a scattering of islands that orbit it as much culturally as geographically. Fallmark is large enough that crossing it corner to corner takes the better part of two months on foot, even on good roads. Nobody actually makes that trip. Real journeys follow the roads and rivers between the places that matter.
 
 <div class="map-frame">
   <img src="{{ '/assets/images/world-map.jpg' | relative_url }}" alt="Map of Fallmark">
