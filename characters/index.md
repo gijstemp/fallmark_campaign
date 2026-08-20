@@ -12,6 +12,8 @@ This page will fill in further after Session Zero. For now, here's what's alread
 
 Your character is part of a newly formed band starting out in **Coppervane**, a small Central Plains trade town (see [The World]({{ '/world/' | relative_url }})). Levels 1-4 are about establishing who your character actually is before the stakes get complicated: small, personal, local jobs rather than world-shaking ones. Build a character who makes sense doing that kind of work.
 
+You'll start at level 1. Leveling up isn't tied to a strict XP count, it happens whenever the story's earned it, and expect that to move quickly early on.
+
 ## Ruleset Notes
 
 - We're using the 2024 ("5.5e") **weapon mastery** properties.

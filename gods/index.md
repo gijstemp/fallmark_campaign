@@ -64,6 +64,14 @@ There's no master list of these. Every region built its own, and the same combin
 
 </div>
 
+## A Question Nobody Can Answer
+
+No tradition has ever formally said the two moons are tied to any of the ten forces, they're moons, not gods, and most clergy will tell you trying to marry the two ideas is a category error. But grief reaches for answers anyway, and a real, unresolved question sits underneath a lot of ordinary faith these days: if the Broken Daughter really did carry something of the Undying, the force of death and rebirth, what does it mean, theologically, that it broke?
+
+Some say it was an act of rebirth in itself, painful but natural, nothing to fear. A smaller, louder, more recent movement called **the Mending** reads it differently: if the domain of rebirth's own vessel broke and nothing has been reborn from it in four hundred years, then rebirth itself might be wounded, quietly, for the whole world, until it finally isn't. They call the fix **Reunion**, a Fallmark whole again under one authority, and they've become a real and growing political force because of it, not just a religious one.
+
+Nobody can prove either reading. That's genuinely true at the table, not just in-character: this is one of the campaign's real open questions, and it's fine for your character to have a strong opinion about it without that opinion being confirmed correct.
+
 ## What This Means for Your Character
 
 You don't need a fully worked-out theology to play a cleric, paladin, or any character with a faith. Pick a force that resonates with who your character is (or pick a specific, local name for one of these forces that fits their culture), and the rest can develop at the table. A character doesn't need to consciously worship anything to be aligned with a force, either: someone who's spent their life standing between danger and the people they love is Ember-aligned whether they've ever set foot in a shrine or not.

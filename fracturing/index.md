@@ -41,6 +41,8 @@ Nobody agrees on what actually caused the Fracturing. Four explanations circulat
 
 Which of these your character believes (or whether they've ever thought about it at all) is entirely up to you.
 
+There's a fifth, quieter question underneath all four that's started to matter more lately: not what caused the Fracturing, but what it meant, if the broken moon really was tied to one of the Unnamed the way a few sects now claim. See <a href="{{ '/gods/' | relative_url }}">The Unnamed</a> for that one, if you want to go looking.
+
 ## Living With It
 
 Most people don't spend their days thinking about any of this. The Broken Daughter is just the sky. The fragment sites are just geography: some are farmland, some are dangerous ruins worth a contract, some are simply where you're from. Four hundred years is a long time to live with a mystery before it stops feeling urgent and starts just feeling like the world.

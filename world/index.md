@@ -26,9 +26,21 @@ It is, by every account, beautiful. That's part of what nobody can quite settle 
 - **The Verdant Interior**: the western heart of the continent. An impossible, ancient-feeling forest grown up around a crater lake, dense enough to disorient anyone who isn't from there.
 - **The Ironpeak Range**: the eastern spine. Dramatic, sky-splitting mountains, home to dwarven city-states built into the stone itself. Every trade route east or west goes through a pass somebody owns.
 - **The Central Plains**: the agricultural heart of Fallmark, flat and river-crossed, the most populated and most politically tangled region on the continent.
-- **The Northern Reaches**: wild, strange, and largely ungoverned. The least mapped, least predictable part of the world, and where a lot of adventuring work actually happens.
+- **The Northern Reaches**: wild, strange, and largely ungoverned. The least mapped, least predictable part of the world, and where a lot of adventuring work actually happens. Taking more scattered fragment strikes than anywhere else left it with the continent's only real oddity: a handful of slabs of ground, out in a stretch called the Pale, that never quite settled back down and drift slowly above the earth they came from.
 - **The Southern Coast**: rugged cliffs in the west, marsh delta in the east, a day's sail from the Deepwater Archipelago.
 - **The Deepwater Archipelago**: eleven major islands and dozens of smaller ones, scattered across the sea beyond the Southern Coast. Half old land, half new: some islands are ancient coastline, others rose from the sea only four hundred years ago.
+
+## A Few Things Worth Knowing
+
+**Technology** sits at a late-medieval level, rapiers, crossbows, plate armor. A Central Plains foundry recently learned to reliably make a black, volatile powder, but nobody's found a use for it beyond fireworks and blasting rock, and it's rare and expensive enough that most people will never handle any in their life. There are no firearms anywhere on Fallmark. If your character's ever heard a rumor about someone trying to change that, it's exactly that: a rumor.
+
+**Dragons** were, until four hundred years ago, myth. Old carvings, temple stories, nothing anyone alive had actually seen. The Fracturing changed that too, and they've been reappearing ever since, scattered and unpredictable. They're still vanishingly rare, and a party that goes looking for one on purpose should expect it to be a very big deal. What your character's heard is whatever bards sing and old caravan guards swear happened to them once. Nobody your character knows has fought one and lived to tell it properly.
+
+## Right Now, Politically
+
+The Central Plains has never been one nation, just a patchwork of small holdings that mostly keep to themselves. That's been changing. Vanthorpe's crown, historically little more than ceremonial, has spent the last several years expanding its authority outward, fiefdom by fiefdom, backed by an increasingly zealous religious movement that believes unifying Fallmark under one rule is the only thing that can save it from whatever the broken moon is quietly building toward. Some fiefdoms have gone along with it willingly. Others are actively resisting, with Lord Edran Ashfield the most visible and outspoken of them.
+
+Your own home fiefdom, **the Fellstone March**, is held by House Varn, a well-liked, unremarkable family who've governed lightly for generations. Coppervane hasn't felt any real pressure from this yet. Lately, though, there's been a new face or two in town, earnest traveling preachers of a faith called the Mending, and a few of the older folk have started muttering about it. Ask your DM if you want your character to have an opinion on any of this already.
 
 ## Your Story Starts Small
 

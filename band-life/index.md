@@ -6,7 +6,7 @@ title: "Life as a Band"
 subtitle: "What it actually means to be adventurers in this world"
 ---
 
-In Aethermere, adventuring isn't a strange or marginal career. It's culturally dominant. Bands are celebrities, gossip subjects, and small businesses all at once: the closest thing this world has to a national sport crossed with a trade guild.
+In Aethermere, adventuring isn't a strange or marginal career. It's a recognized trade with its own culture, gossip, and pecking order, closer to how a legendary knight's household or a master guild company gets talked about than anything modern. Bands earn their name the old way: through witnessed deeds, word of mouth, and the songs and penny dreadfuls that outlast the deed itself.
 
 ## How Bands Form
 
