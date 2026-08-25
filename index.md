@@ -8,7 +8,7 @@ subtitle: "A guide to Aethermere, before your story begins"
 
 You're about to start a new campaign in **Aethermere**, a world four hundred years removed from the night its smaller moon broke apart in the sky and rained down across the land.
 
-This site is your primer. It won't tell you everything (plenty is still waiting to be discovered at the table), but it should be enough to walk into Session Zero with a real feel for the world, its peoples, and the kind of story we're telling together.
+This site is your primer. It won't tell you everything (plenty is still waiting to be discovered at the table), but it should be enough to walk into Session 1 with a real feel for the world, its peoples, and the kind of story we're telling together.
 
 <div class="callout">
 <div class="callout-title">Where to start</div>

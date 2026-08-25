@@ -58,6 +58,11 @@ There's no master list of these. Every region built its own, and the same combin
 </div>
 
 <div class="card">
+<h3>Glory</h3>
+<p><em>Ember + Mask.</em> The courage to act, in a way the world remembers, done for real rather than performed. Known as the <strong>Told Deed</strong> among Central Plains mercenary companies, or the <strong>Lasting Name</strong> to competing bands who've found the usual trade gods don't quite cover the hunger to be remembered.</p>
+</div>
+
+<div class="card">
 <h3>Hearth &amp; Home</h3>
 <p><em>Undying + Forge.</em> What a family builds, and what outlasts them. Known as the <strong>Kept Flame</strong> in almost every household shrine, the <strong>Carved Hearth</strong> in dwarven clan tradition, or the <strong>Rebuilt Door</strong> among Central Plains halflings.</p>
 </div>

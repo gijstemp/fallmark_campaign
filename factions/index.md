@@ -11,8 +11,8 @@ Six organizations shape the world your band will operate in. None of them are si
 <div class="card-grid">
 
 <div class="card">
-<h3>The Gilded Consortium</h3>
-<p>Controls the upper tiers of adventuring work. Verifies reputations, brokers major contracts, runs the annual Showcase circuit, and takes a cut of everything that moves through the legitimate contract economy. Founded two centuries ago by retired bands, merchants, and noble houses. Genuinely useful, and quietly very powerful.</p>
+<h3>The Adventurers' Guild</h3>
+<p>Controls the upper tiers of adventuring work. Verifies contracts, mediates disputes, keeps the trade's registry, and takes a cut of everything that moves through the legitimate contract economy. Founded two centuries ago by retired bands, merchants, and noble houses. Genuinely useful, and quietly very powerful.</p>
 </div>
 
 <div class="card">
@@ -44,4 +44,4 @@ Six organizations shape the world your band will operate in. None of them are si
 
 ## How This Actually Plays Out
 
-You won't need to pick a side at Session Zero, and you probably shouldn't try to. Most bands work within the Consortium's system without thinking too hard about who benefits from it. Reputation, contracts, and relationships with these factions build slowly, through the work you actually do, not through a declaration made before you've set foot in the world.
+You won't need to pick a side at Session Zero, and you probably shouldn't try to. Most bands work within the Guild's system without thinking too hard about who benefits from it. Reputation, contracts, and relationships with these factions build slowly, through the work you actually do, not through a declaration made before you've set foot in the world.

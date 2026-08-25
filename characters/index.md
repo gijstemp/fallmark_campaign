@@ -36,6 +36,17 @@ Pick one of these three methods to generate your six ability scores:
 
 Any of the peoples described on the [Peoples of Aethermere]({{ '/peoples/' | relative_url }}) page are fair game. You don't need to justify your choice with a deep backstory. A character who's never thought about their culture's history is just as valid as one who carries it closely. If you want your background to tie into a specific region, faction, or piece of history, this is a great time to ask questions.
 
+## If Your Character Comes From Nobility
+
+Fallmark's noble houses run on a hybrid inheritance system, worth knowing if you're considering a noble-born background:
+
+- **The title and the main estate go to the eldest child, full stop**, regardless of gender. No splitting the actual seat of power between siblings.
+- **Younger children don't inherit the title, but they aren't left with nothing either.** A real portion, proportionate to the family's wealth: land, coin, a lesser holding, a position. Expected, not charity.
+- **The catch:** because younger children have something real to lose, parents hold real, exercised leverage over what their non-inheriting children are "allowed" to do with their lives. Disinheritance is a genuine threat in this world, not an empty one, and everyone born into a noble family grows up knowing it. (Whether a parent can actually *make it stick* without real legal cause is a separate, murkier question your DM can help you play with.)
+- **Titles use German/Austrian-style names** rather than English ones, in descending order: Kaiser/Kaiserin (Emperor), König/Königin (King), Erzherzog/Erzherzogin (Archduke), Herzog/Herzogin (Duke), Fürst/Fürstin (Prince, sovereign), Graf/Gräfin (Count), Freiherr/Freifrau (Baron), Ritter (Knight — a rank of service rather than inherited land).
+
+If you want to play a noble-born character (heir, spare, disowned, or otherwise), this is a great thing to bring to Session Zero: where does your family sit in that hierarchy, what would you actually inherit if nothing changed, and what's the specific line your family would draw that gets you cut off?
+
 ## Backstory Development
 
 A good backstory does two things: it gives you a reason to be out here doing this, and it gives me material to build your character into the world with. A few things to think through before Session Zero.
