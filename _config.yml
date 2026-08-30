@@ -1,5 +1,5 @@
 title: "The Fracturing"
-description: "A campaign guide for the players: Aethermere, before Session 1"
+description: "A living player's guide to Aethermere: world lore, the people of Coppervane, and the story as it happens"
 author: "Your DM"
 
 # Repo: https://github.com/gijstemp/fallmark_campaign
@@ -21,6 +21,21 @@ nav:
   - key: home
     title: "Home"
     url: "/"
+  - key: sessions
+    title: "Session Recaps"
+    url: "/sessions/"
+  - key: band
+    title: "The Band"
+    url: "/band/"
+  - key: npcs
+    title: "People You've Met"
+    url: "/npcs/"
+  - key: coppervane
+    title: "Coppervane"
+    url: "/coppervane/"
+  - key: mysteries
+    title: "Mysteries"
+    url: "/mysteries/"
   - key: world
     title: "The World"
     url: "/world/"
@@ -45,9 +60,6 @@ nav:
   - key: characters
     title: "Character Creation"
     url: "/characters/"
-  - key: sessions
-    title: "Session Recaps"
-    url: "/sessions/"
 
 defaults:
   - scope:

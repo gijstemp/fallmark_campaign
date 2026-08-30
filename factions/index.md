@@ -37,11 +37,11 @@ Six organizations shape the world your band will operate in. None of them are si
 
 <div class="card">
 <h3>The Mending</h3>
-<p>A newer, more urgent offshoot of the Fragment Faithful, convinced that Fallmark must reunite under one authority before whatever the broken moon is building toward arrives. Sincere, persuasive, and increasingly influential at Vanthorpe's royal court, see <a href="{{ '/world/' | relative_url }}">The World</a> for what that's meant lately for fiefdoms like your own.</p>
+<p>A newer, more urgent offshoot of the Fragment Faithful, convinced that Fallmark must reunite under one authority before whatever the broken moon is building toward arrives. Sincere, persuasive, and increasingly influential at Vanthorpe's royal court. See <a href="{{ '/world/' | relative_url }}">The World</a> for what that's meant lately for fiefdoms like your own.</p>
 </div>
 
 </div>
 
-## How This Actually Plays Out
+## How this actually plays out
 
 You won't need to pick a side at Session Zero, and you probably shouldn't try to. Most bands work within the Guild's system without thinking too hard about who benefits from it. Reputation, contracts, and relationships with these factions build slowly, through the work you actually do, not through a declaration made before you've set foot in the world.

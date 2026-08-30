@@ -48,7 +48,8 @@ Then visit `http://localhost:4000`. Entirely optional; GitHub will build and pub
 
 1. Open `sessions/index.md` and add a new `.session-entry` block above the HTML comment at the bottom, following the format shown in the comment. Keep recaps player-facing: no DM-only information (motives, secrets, or anything the party hasn't actually learned in-fiction).
 2. Edit any other page if the campaign has revealed something worth adding, such as a new region or a faction's public reputation shifting. Same rule: only what the *players* would reasonably know.
-3. Commit and push:
+3. Run the `unslop` skill (`.claude/skills/unslop/`) on whatever prose you just wrote or edited, before committing. Mandatory for every page on this site, not optional cleanup.
+4. Commit and push:
    ```bash
    git add -A
    git commit -m "Add Session N recap"
@@ -60,7 +61,7 @@ Then visit `http://localhost:4000`. Entirely optional; GitHub will build and pub
 
 Safe to add: anything the party has directly experienced or that's genuinely public in-world knowledge (regions, cultures, factions' public faces, session recaps, house rules, character-creation notes).
 
-Never add: BBEG identities or motives, one-shot/adventure contents not yet run, hidden faction agendas, NPC secrets, or anything from the DM vault's `npcs/bbeg/`, `npcs/villains/`, `one-shots/`, or `lore/` files beyond what's already been revealed at the table. When in doubt, check with the DM side of the project before publishing something here.
+Never add: BBEG identities or motives, adventure contents not yet run, hidden faction agendas, NPC secrets, or anything from the DM vault's `npcs/bbeg/`, `npcs/villains/`, `encounters/`, or `lore/` files beyond what's already been revealed at the table. When in doubt, check with the DM side of the project before publishing something here.
 
 ## Structure
 
@@ -70,8 +71,13 @@ player-site/
 ├── _layouts/default.html  the one page template
 ├── _includes/              head, nav, footer partials
 ├── assets/css/style.css   the parchment theme (all hand-written, no external theme)
-├── assets/images/          world-map.jpg (optimized web copy)
+├── assets/images/          world-map.jpg, coppervane-map.jpg (optimized web copies)
 ├── index.md               -> /
+├── sessions/index.md      -> /sessions/    (grows after every session)
+├── band/index.md          -> /band/        (party roster, grows as the band defines itself)
+├── npcs/index.md          -> /npcs/        (NPCs the party has actually met, grows after every session)
+├── coppervane/index.md    -> /coppervane/  (current home base, grows as the party explores it)
+├── mysteries/index.md     -> /mysteries/   (open questions the party has raised, written cryptically)
 ├── world/index.md         -> /world/
 ├── fracturing/index.md    -> /fracturing/
 ├── peoples/index.md       -> /peoples/
@@ -79,8 +85,7 @@ player-site/
 ├── gods/index.md          -> /gods/
 ├── band-life/index.md     -> /band-life/
 ├── table/index.md         -> /table/
-├── characters/index.md    -> /characters/
-└── sessions/index.md      -> /sessions/  (grows after every session)
+└── characters/index.md    -> /characters/
 ```
 
 To add a brand-new top-level page, create `new-folder/index.md` with front matter (`layout: default`, a unique `nav_key`, `permalink: /new-folder/`, `title`), then add a matching entry to the `nav` list in `_config.yml`.

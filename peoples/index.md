@@ -10,13 +10,13 @@ Cultural tension in Aethermere isn't drawn along racial lines. A Deepwater elf a
 
 That doesn't mean the world is free of prejudice. It means prejudice here has a history behind it, not just a shape. Feel free to lean into that when you build your character. A specific grudge or a specific loyalty will always read as more real at the table than a generic racial trait.
 
-## The Peoples
+## The peoples
 
 <div class="card-grid">
 
 <div class="card">
 <h3>Elves</h3>
-<p>Split long ago into two cultures. <strong>Verdant Interior elves</strong> live in and around the ancient forest at the continent's heart, insular and deeply patient. <strong>Deepwater elves</strong> turned to the sea centuries back and built a seafaring, navigator culture in the Archipelago. The two don't always get along.</p>
+<p>Split long ago into two cultures. Verdant Interior elves live in and around the ancient forest at the continent's heart, insular and deeply patient. Deepwater elves turned to the sea centuries back and built a seafaring, navigator culture in the Archipelago. The two don't always get along.</p>
 </div>
 
 <div class="card">
@@ -36,7 +36,7 @@ That doesn't mean the world is free of prejudice. It means prejudice here has a 
 
 <div class="card">
 <h3>Gnomes</h3>
-<p>Recent arrivals by Fallmark's standards, and technologically inventive in ways that make their neighbors nervous, not without reason. Gnomish innovation moves fast; the consequences of getting it wrong don't always land on the gnomes themselves.</p>
+<p>Recent arrivals by Fallmark's standards, and technologically inventive in ways that make their neighbors nervous, not without reason. Gnomish innovation moves fast, and the consequences of getting it wrong don't always land on the gnomes themselves.</p>
 </div>
 
 <div class="card">
@@ -61,11 +61,11 @@ That doesn't mean the world is free of prejudice. It means prejudice here has a 
 
 <div class="card">
 <h3>Kenku &amp; Tabaxi</h3>
-<p>Both arrived from across the eastern sea generations before the Fracturing. Kenku settled into the Archipelago's information economy; tabaxi tend to be more nomadic and widely scattered across the whole continent.</p>
+<p>Both arrived from across the eastern sea generations before the Fracturing. Kenku settled into the Archipelago's information economy, and tabaxi tend to be more nomadic and widely scattered across the whole continent.</p>
 </div>
 
 </div>
 
-## A Note on Playing Any of These
+## A note on playing any of these
 
 None of this is meant to box your character in. These are starting points: the texture your character's community might carry, not a script you have to follow. A halfling who's never once thought about the Ashfield rim, or a dwarf who left the mountains and never looked back, is exactly as valid as one who carries their culture's history close.
