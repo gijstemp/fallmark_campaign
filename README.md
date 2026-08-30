@@ -74,7 +74,6 @@ player-site/
 ├── assets/images/          world-map.jpg, coppervane-map.jpg (optimized web copies)
 ├── index.md               -> /
 ├── sessions/index.md      -> /sessions/    (grows after every session)
-├── band/index.md          -> /band/        (party roster, grows as the band defines itself)
 ├── npcs/index.md          -> /npcs/        (NPCs the party has actually met, grows after every session)
 ├── coppervane/index.md    -> /coppervane/  (current home base, grows as the party explores it)
 ├── mysteries/index.md     -> /mysteries/   (open questions the party has raised, written cryptically)

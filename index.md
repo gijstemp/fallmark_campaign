@@ -15,7 +15,7 @@ Start with The World and The Fracturing. Everything else builds on those two.
 
 <div class="callout">
 <div class="callout-title">Already playing?</div>
-Session Recaps has the story so far. The Band, People You've Met, Coppervane, and Mysteries track what your characters actually know, and grow after every session.
+Session Recaps has the story so far. People You've Met, Coppervane, and Mysteries track what your characters actually know, and grow after every session.
 </div>
 
 ## What's here
@@ -24,10 +24,6 @@ Session Recaps has the story so far. The Band, People You've Met, Coppervane, an
   <div class="card">
     <h3>Session Recaps</h3>
     <p>What's actually happened, session by session.</p>
-  </div>
-  <div class="card">
-    <h3>The Band</h3>
-    <p>Your characters, and how they got here.</p>
   </div>
   <div class="card">
     <h3>People You've Met</h3>

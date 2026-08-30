@@ -14,52 +14,59 @@ kramdown:
 plugins:
   - jekyll-relative-links
 
-# Left-to-right order of the top navigation bar.
-# Each entry needs a matching page with the same `nav_key` in its front matter and
-# a `permalink` set to the matching `url` below.
+# Top navigation bar, left to right. A top-level entry either links directly
+# (needs `url`) or is a dropdown group (needs `children`, each with its own `url`).
+# Every linked entry needs a matching page with the same `nav_key` in its front
+# matter and a `permalink` set to the matching `url` here.
 nav:
   - key: home
     title: "Home"
     url: "/"
-  - key: sessions
-    title: "Session Recaps"
-    url: "/sessions/"
-  - key: band
-    title: "The Band"
-    url: "/band/"
-  - key: npcs
-    title: "People You've Met"
-    url: "/npcs/"
-  - key: coppervane
-    title: "Coppervane"
-    url: "/coppervane/"
-  - key: mysteries
-    title: "Mysteries"
-    url: "/mysteries/"
-  - key: world
-    title: "The World"
-    url: "/world/"
-  - key: fracturing
-    title: "The Fracturing"
-    url: "/fracturing/"
-  - key: peoples
-    title: "Peoples of Aethermere"
-    url: "/peoples/"
-  - key: factions
-    title: "Factions"
-    url: "/factions/"
-  - key: gods
-    title: "The Unnamed"
-    url: "/gods/"
-  - key: band-life
-    title: "Life as a Band"
-    url: "/band-life/"
-  - key: table
-    title: "Table Expectations"
-    url: "/table/"
-  - key: characters
-    title: "Character Creation"
-    url: "/characters/"
+  - key: chronicle
+    title: "The Story So Far"
+    children:
+      - key: sessions
+        title: "Session Recaps"
+        url: "/sessions/"
+      - key: coppervane
+        title: "Coppervane"
+        url: "/coppervane/"
+      - key: npcs
+        title: "People You've Met"
+        url: "/npcs/"
+      - key: mysteries
+        title: "Mysteries"
+        url: "/mysteries/"
+  - key: lore
+    title: "Worldbuilding & Lore"
+    children:
+      - key: world
+        title: "The World"
+        url: "/world/"
+      - key: fracturing
+        title: "The Fracturing"
+        url: "/fracturing/"
+      - key: peoples
+        title: "Peoples of Aethermere"
+        url: "/peoples/"
+      - key: factions
+        title: "Factions"
+        url: "/factions/"
+      - key: gods
+        title: "The Unnamed"
+        url: "/gods/"
+  - key: handbook
+    title: "Player's Handbook"
+    children:
+      - key: band-life
+        title: "Life as a Band"
+        url: "/band-life/"
+      - key: table
+        title: "Table Expectations"
+        url: "/table/"
+      - key: characters
+        title: "Character Creation"
+        url: "/characters/"
 
 defaults:
   - scope:

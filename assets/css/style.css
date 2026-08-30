@@ -145,12 +145,94 @@ body {
   border-bottom-color: var(--red);
 }
 
+/* ---- Nav dropdown groups ---- */
+
+.has-dropdown { position: relative; }
+
+.nav-group-title {
+  display: block;
+  padding: 0.7rem 1rem;
+  color: var(--ink-soft);
+  font-family: var(--font-heading);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  border-bottom: 3px solid transparent;
+  cursor: default;
+  transition: color 0.15s ease, background 0.15s ease;
+}
+
+.nav-group-title::after {
+  content: " \25BE";
+  font-size: 0.75em;
+}
+
+.nav-group-title:hover,
+.nav-group-title:focus,
+.nav-group-title.active {
+  color: var(--red);
+  background: rgba(122, 31, 31, 0.07);
+}
+
+.nav-group-title.active { border-bottom-color: var(--red); }
+
+.dropdown {
+  list-style: none;
+  margin: 0;
+  padding: 0.35rem 0;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  min-width: 220px;
+  background: var(--parchment-panel);
+  border: 1px solid var(--gold);
+  box-shadow: 0 6px 20px var(--shadow);
+  z-index: 20;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-4px);
+  transition: opacity 0.15s ease, transform 0.15s ease, visibility 0.15s;
+}
+
+.has-dropdown:hover .dropdown,
+.has-dropdown:focus-within .dropdown {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.dropdown li { margin: 0; }
+
+.dropdown a {
+  text-align: left;
+  text-transform: none;
+  letter-spacing: normal;
+  font-size: 0.88rem;
+  border-bottom: none;
+  padding: 0.55rem 1.1rem;
+}
+
+.dropdown a:hover { background: rgba(122, 31, 31, 0.07); }
+
 @media (max-width: 720px) {
   .nav-toggle-label { display: flex; margin: 0.5rem auto 1rem; }
   .site-nav { display: none; }
   .nav-toggle-checkbox:checked ~ .site-nav { display: block; }
   .site-nav ul { flex-direction: column; }
   .site-nav a { text-align: center; border-bottom: 1px solid var(--rule); }
+
+  .nav-group-title { text-align: center; border-bottom: 1px solid var(--rule); }
+  .dropdown {
+    position: static;
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+    border: none;
+    box-shadow: none;
+    background: rgba(122, 31, 31, 0.04);
+  }
+  .dropdown a { text-align: center; border-bottom: 1px solid var(--rule); }
 }
 
 /* ---- Content panel ---- */
@@ -356,4 +438,77 @@ pre { padding: 1rem; overflow-x: auto; }
   color: var(--ink-soft);
   font-style: italic;
   padding: 2rem 0;
+}
+
+/* ---- Reveal list (People You've Met / Mysteries: name, hover for detail) ---- */
+
+.reveal-list {
+  list-style: none;
+  margin: 0 0 2rem;
+  padding: 0;
+  border-top: 1px solid var(--rule);
+}
+
+.reveal-item {
+  position: relative;
+  padding: 0.75rem 0.25rem;
+  border-bottom: 1px solid var(--rule);
+  cursor: help;
+}
+
+.reveal-item::after {
+  content: "hover for details";
+  float: right;
+  color: var(--gold);
+  font-size: 0.75rem;
+  font-style: italic;
+  opacity: 0.7;
+}
+
+.reveal-name {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  color: var(--ink);
+  border-bottom: 1px dotted var(--gold);
+}
+
+.reveal-meta {
+  color: var(--ink-soft);
+  font-size: 0.85rem;
+  font-style: italic;
+  margin-left: 0.6rem;
+}
+
+.reveal-popout {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 100%;
+  z-index: 15;
+  margin-top: 0.5rem;
+  padding: 1rem 1.25rem;
+  background: var(--parchment-panel);
+  border: 1px solid var(--gold);
+  box-shadow: 0 6px 20px var(--shadow);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-4px);
+  transition: opacity 0.15s ease, transform 0.15s ease, visibility 0.15s;
+  font-size: 0.95rem;
+  line-height: 1.55;
+  cursor: default;
+}
+
+.reveal-popout p { margin: 0; }
+
+.reveal-item:hover .reveal-popout,
+.reveal-item:focus .reveal-popout,
+.reveal-item:focus-within .reveal-popout {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+@media (max-width: 640px) {
+  .reveal-item::after { display: none; }
 }

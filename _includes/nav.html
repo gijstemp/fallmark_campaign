@@ -12,10 +12,28 @@
 <nav class="site-nav">
   <ul>
     {% for item in site.nav %}
-      <li>
-        <a href="{{ item.url | relative_url }}"
-           class="{% if page.nav_key == item.key %}active{% endif %}">{{ item.title }}</a>
-      </li>
+      {% if item.children %}
+        {% assign group_active = false %}
+        {% for child in item.children %}
+          {% if page.nav_key == child.key %}{% assign group_active = true %}{% endif %}
+        {% endfor %}
+        <li class="has-dropdown">
+          <span class="nav-group-title{% if group_active %} active{% endif %}" tabindex="0">{{ item.title }}</span>
+          <ul class="dropdown">
+            {% for child in item.children %}
+              <li>
+                <a href="{{ child.url | relative_url }}"
+                   class="{% if page.nav_key == child.key %}active{% endif %}">{{ child.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </li>
+      {% else %}
+        <li>
+          <a href="{{ item.url | relative_url }}"
+             class="{% if page.nav_key == item.key %}active{% endif %}">{{ item.title }}</a>
+        </li>
+      {% endif %}
     {% endfor %}
   </ul>
 </nav>
