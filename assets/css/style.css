@@ -16,6 +16,11 @@
   --rule: #b89a63;
   --shadow: rgba(43, 29, 16, 0.25);
 
+  --night-top: #0d1326;
+  --night-mid: #1a2340;
+  --night-horizon: #2c2a3d;
+  --star: #f4f0e2;
+
   --font-display: "Cinzel Decorative", "Cinzel", Georgia, serif;
   --font-heading: "Cinzel", Georgia, serif;
   --font-body: "EB Garamond", Georgia, "Times New Roman", serif;
@@ -31,14 +36,45 @@ body {
   font-size: 19px;
   line-height: 1.65;
   color: var(--ink);
-  background-color: var(--parchment-dark);
+  background-color: var(--night-top);
   background-image:
-    radial-gradient(ellipse at 20% 20%, rgba(255, 250, 235, 0.5), transparent 55%),
-    radial-gradient(ellipse at 80% 0%, rgba(255, 250, 235, 0.35), transparent 50%),
-    radial-gradient(ellipse at 50% 100%, rgba(120, 90, 40, 0.12), transparent 60%),
-    repeating-linear-gradient(0deg, rgba(120, 90, 40, 0.025) 0px, rgba(120, 90, 40, 0.025) 1px, transparent 1px, transparent 3px);
+    radial-gradient(1.5px 1.5px at 8% 12%, var(--star), transparent),
+    radial-gradient(1px 1px at 22% 28%, var(--star), transparent),
+    radial-gradient(1.5px 1.5px at 38% 8%, var(--star), transparent),
+    radial-gradient(1px 1px at 54% 22%, var(--star), transparent),
+    radial-gradient(1.5px 1.5px at 68% 6%, var(--star), transparent),
+    radial-gradient(1px 1px at 79% 18%, var(--star), transparent),
+    radial-gradient(1.5px 1.5px at 91% 10%, var(--star), transparent),
+    radial-gradient(1px 1px at 14% 34%, var(--star), transparent),
+    radial-gradient(1px 1px at 46% 36%, var(--star), transparent),
+    radial-gradient(1.5px 1.5px at 85% 32%, var(--star), transparent),
+    radial-gradient(1px 1px at 62% 40%, var(--star), transparent),
+    radial-gradient(1px 1px at 30% 45%, var(--star), transparent),
+    linear-gradient(180deg, var(--night-top) 0%, var(--night-mid) 45%, var(--night-horizon) 72%, var(--parchment-dark) 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
   background-attachment: fixed;
 }
+
+/* A low, jagged mountain line sitting on the horizon where night gives way to parchment. */
+.page-frame::before {
+  content: "";
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 14vh;
+  min-height: 90px;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 160' preserveAspectRatio='none'%3E%3Cpath d='M0 160 L0 95 L60 60 L140 100 L210 40 L300 90 L380 20 L470 85 L560 45 L650 95 L740 55 L830 100 L910 30 L1000 90 L1080 65 L1150 100 L1200 70 L1200 160 Z' fill='%2320203a' opacity='0.85'/%3E%3C/svg%3E");
+  background-repeat: repeat-x;
+  background-position: bottom;
+  background-size: 1200px 100%;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.page-frame { position: relative; }
+.page-frame > * { position: relative; z-index: 1; }
 
 .page-frame {
   max-width: 900px;
@@ -49,11 +85,33 @@ body {
 /* ---- Banner / masthead ---- */
 
 .site-banner {
+  position: relative;
   text-align: center;
-  padding: 2.75rem 1rem 1.25rem;
+  padding: 3.25rem 1rem 1.5rem;
 }
 
+.site-banner-sky {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 1.5rem;
+  pointer-events: none;
+}
+
+.site-banner-moon {
+  width: 72px;
+  height: auto;
+  filter: drop-shadow(0 0 14px rgba(244, 240, 226, 0.45));
+  opacity: 0.95;
+}
+
+.moon-warden { margin-top: 0.25rem; }
+.moon-broken-daughter { margin-top: 0.6rem; }
+
 .site-banner-link {
+  position: relative;
   text-decoration: none;
   color: var(--ink);
   display: inline-flex;
@@ -61,25 +119,28 @@ body {
   gap: 0.6rem;
 }
 
-.site-banner-glyph {
-  font-size: 1.6rem;
-  color: var(--red);
-}
-
 .site-banner-title {
   font-family: var(--font-display);
   font-weight: 900;
   font-size: 2.4rem;
   letter-spacing: 0.03em;
-  color: var(--ink);
-  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.4);
+  color: var(--parchment-panel);
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.55), 0 0 22px rgba(201, 163, 95, 0.35);
 }
 
 .site-banner-tagline {
+  position: relative;
   margin: 0.4rem 0 0;
   font-style: italic;
-  color: var(--ink-soft);
+  color: var(--parchment-dark);
   font-size: 1.05rem;
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.6);
+}
+
+@media (max-width: 560px) {
+  .site-banner-moon { width: 40px; }
+  .site-banner-sky { padding: 0 0.5rem; }
+  .site-banner-title { font-size: 1.8rem; }
 }
 
 /* ---- Navigation ---- */
@@ -106,7 +167,7 @@ body {
 .site-nav {
   border-top: 3px double var(--gold);
   border-bottom: 3px double var(--gold);
-  background: rgba(122, 31, 31, 0.06);
+  background: var(--parchment-panel);
   margin-bottom: 2rem;
 }
 
@@ -416,10 +477,13 @@ pre { padding: 1rem; overflow-x: auto; }
 
 .site-footer {
   text-align: center;
-  padding: 1.5rem 0 3rem;
+  padding: 1.5rem 1rem 3rem;
+  margin-top: 1rem;
   color: var(--ink-soft);
   font-size: 0.85rem;
   font-style: italic;
+  background: var(--parchment-panel);
+  border-top: 1px solid var(--rule);
 }
 
 /* ---- Session recap list ---- */

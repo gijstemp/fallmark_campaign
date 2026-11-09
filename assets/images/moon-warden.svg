@@ -1,0 +1,18 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Warden, Aethermere's whole moon">
+  <defs>
+    <radialGradient id="wGlow" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#fdf8ec" stop-opacity="0.95"/>
+      <stop offset="70%" stop-color="#e8e1cc" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#cfc6a8" stop-opacity="0.8"/>
+    </radialGradient>
+    <filter id="wHalo" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+  <circle cx="60" cy="60" r="46" fill="#f4ecd8" opacity="0.35" filter="url(#wHalo)"/>
+  <circle cx="60" cy="60" r="36" fill="url(#wGlow)"/>
+  <circle cx="46" cy="48" r="5" fill="#c9bd9a" opacity="0.4"/>
+  <circle cx="70" cy="68" r="7" fill="#c9bd9a" opacity="0.35"/>
+  <circle cx="68" cy="42" r="3.5" fill="#c9bd9a" opacity="0.4"/>
+  <circle cx="50" cy="74" r="3" fill="#c9bd9a" opacity="0.3"/>
+</svg>

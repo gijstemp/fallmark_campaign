@@ -6,7 +6,7 @@ title: "Notable Possessions"
 subtitle: "What the band is actually carrying"
 ---
 
-Ordinary gear doesn't make this list. This is what's worth remembering.
+Gear with an actual effect, worth remembering you're carrying. Coin, mundane trinkets, and anything purely decorative don't make this list.
 
 <ul class="reveal-list">
   <li class="reveal-item" tabindex="0">
@@ -28,27 +28,6 @@ Ordinary gear doesn't make this list. This is what's worth remembering.
     <span class="reveal-meta">unclaimed, found at the leucrotta's den</span>
     <div class="reveal-popout">
       <p>Looted off an unluckier spellcaster who never made it out of that stretch of the Firwood either. Nobody's decided yet who's keeping it.</p>
-    </div>
-  </li>
-  <li class="reveal-item" tabindex="0">
-    <span class="reveal-name">A dead trapper's silver belt buckle and knife</span>
-    <span class="reveal-meta">unclaimed, found at the leucrotta's den</span>
-    <div class="reveal-popout">
-      <p>Nothing magical, but worth something to the right buyer.</p>
-    </div>
-  </li>
-  <li class="reveal-item" tabindex="0">
-    <span class="reveal-name">An unexplained child's carved wooden toy</span>
-    <span class="reveal-meta">unclaimed, found at the leucrotta's den</span>
-    <div class="reveal-popout">
-      <p>Nobody present could place it, or explain why it was there. See <a href="{{ '/mysteries/' | relative_url }}">Mysteries</a>.</p>
-    </div>
-  </li>
-  <li class="reveal-item" tabindex="0">
-    <span class="reveal-name">Quinten Morton's effects</span>
-    <span class="reveal-meta">a crew-branded hand axe, pending delivery</span>
-    <div class="reveal-popout">
-      <p>Confirms his death. Worth returning to Maren Coalgrave, not selling.</p>
     </div>
   </li>
 </ul>
