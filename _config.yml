@@ -31,9 +31,15 @@ nav:
       - key: coppervane
         title: "Coppervane"
         url: "/coppervane/"
+      - key: places
+        title: "Places You've Been"
+        url: "/places/"
       - key: npcs
         title: "People You've Met"
         url: "/npcs/"
+      - key: items
+        title: "Notable Possessions"
+        url: "/items/"
       - key: mysteries
         title: "Mysteries"
         url: "/mysteries/"

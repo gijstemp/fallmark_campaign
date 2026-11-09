@@ -23,6 +23,10 @@ That single day still shapes how the town treats its own gnomish neighbors. The 
 
 The Cracked Anvil is the town's one real tavern and inn, run by a man named Dunstan Wray, and it doubles as the closest thing Coppervane has to a hiring hall. A corkboard by the door carries whatever work is going. Dunstan keeps a real, informed opinion about which jobs suit which people, and he'll say so.
 
+The Stitch and Bitch Collective meets above Greave & Daughters, a knot of local women who sew, gossip, and know more about the town's business than anyone would guess from the outside. One of the regulars, Agnes Thistlewood, is where Dimble first heard about the Ashgrove Mill job.
+
+Maren Coalgrave runs one of the Firwood logging crews that keep the town's timber trade moving. Old Yarrow's Herbs has had a run of ingredients going missing from a locked storeroom, nothing valuable, just odd.
+
 Beyond that, you've mostly passed through: rooftops shrinking behind a departing cart, then the same rooftops again on the way back in. There's more town here than you've seen yet.
 
 ## Worth knowing

@@ -6,7 +6,7 @@ title: "Factions"
 subtitle: "The powers your band will work with, for, and sometimes against"
 ---
 
-Six organizations shape the world your band will operate in. None of them are simply good or evil. They're institutions with real interests, and your band will end up owing favors to some and friction with others, often without meaning to.
+Seven organizations shape the world your band will operate in. None of them are simply good or evil. They're institutions with real interests, and your band will end up owing favors to some and friction with others, often without meaning to.
 
 <div class="card-grid">
 
@@ -38,6 +38,11 @@ Six organizations shape the world your band will operate in. None of them are si
 <div class="card">
 <h3>The Mending</h3>
 <p>A newer, more urgent offshoot of the Fragment Faithful, convinced that Fallmark must reunite under one authority before whatever the broken moon is building toward arrives. Sincere, persuasive, and increasingly influential at Vanthorpe's royal court. See <a href="{{ '/world/' | relative_url }}">The World</a> for what that's meant lately for fiefdoms like your own.</p>
+</div>
+
+<div class="card">
+<h3>The Wardens of the Old Growth</h3>
+<p>A forest-protecting order, met firsthand in the Firwood through a Warden named Wren Ashfoot. They watch for Wakings, sudden surges of dangerous, often unnatural wildlife, and take real personal risks to contain them before anyone else gets hurt. Not yet a factor outside the forests they watch, but clearly a serious, longstanding institution in its own right.</p>
 </div>
 
 </div>
