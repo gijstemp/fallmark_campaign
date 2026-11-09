@@ -21,6 +21,8 @@ The Warden is whole: pale, steady, completing its cycle the way a moon should. T
 
 It is, by every account, beautiful. That's part of what nobody can quite settle with.
 
+See <a href="{{ '/calendar/' | relative_url }}">The Calendar</a> for how the year's actually divided up, what festivals fall where, and where you are right now.
+
 ## The regions of Fallmark
 
 - The Verdant Interior: the western heart of the continent. An impossible, ancient-feeling forest grown up around a crater lake, dense enough to disorient anyone who isn't from there.

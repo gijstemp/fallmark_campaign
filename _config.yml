@@ -49,6 +49,9 @@ nav:
       - key: world
         title: "The World"
         url: "/world/"
+      - key: calendar
+        title: "The Calendar"
+        url: "/calendar/"
       - key: fracturing
         title: "The Fracturing"
         url: "/fracturing/"

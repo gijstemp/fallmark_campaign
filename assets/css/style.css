@@ -70,11 +70,10 @@ body {
   background-position: bottom;
   background-size: 1200px 100%;
   pointer-events: none;
-  z-index: 0;
+  z-index: -1;
 }
 
 .page-frame { position: relative; }
-.page-frame > * { position: relative; z-index: 1; }
 
 .page-frame {
   max-width: 900px;
@@ -472,6 +471,18 @@ pre { padding: 1rem; overflow-x: auto; }
 
 .card h3 { margin-top: 0; }
 .card p:last-child { margin-bottom: 0; }
+
+.month-season {
+  display: block;
+  font-family: var(--font-body);
+  font-style: italic;
+  font-weight: 400;
+  font-size: 0.8rem;
+  color: var(--ink-soft);
+  text-transform: none;
+  letter-spacing: normal;
+  margin-top: 0.1rem;
+}
 
 /* ---- Footer ---- */
 
