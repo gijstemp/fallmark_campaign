@@ -69,9 +69,9 @@ Grouped by where you met them. See <a href="{{ '/places/' | relative_url }}">Pla
   </li>
   <li class="reveal-item" tabindex="0">
     <span class="reveal-name">The Firwood Caller</span>
-    <span class="reveal-meta">a leucrotta</span>
+    <span class="reveal-meta">a leucrotta, dead</span>
     <div class="reveal-popout">
-      <p>The thing behind the voices in the trees since session one. Mimics the sound of the missing and the dead, including Quinten Morton's own voice calling for help well after his death. Fought directly twice now, wounded badly both times, and still alive, having fled north on each occasion.</p>
+      <p>The thing behind the voices in the trees since session one. Mimicked the sound of the missing and the dead, including Quinten Morton's own voice calling for help well after his death. Fought twice and fled twice. In session eight it dragged itself back to its den and died there, calling out in all its stolen voices at once. Dale killed it and took the head.</p>
     </div>
   </li>
   <li class="reveal-item" tabindex="0">

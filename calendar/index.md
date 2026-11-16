@@ -8,7 +8,7 @@ subtitle: "Twelve months, two moons, and where you are right now"
 
 <div class="callout">
 <div class="callout-title">Right now</div>
-It's the <strong>11th of Meltmonth, 400 AF</strong>. The band set out on the 8th, early spring, snow already melting and the roads clear. Three days of story time later, they've outrun a bandit camp, a leucrotta, and a wolf pack.
+It's the <strong>12th of Meltmonth, 400 AF</strong>. The band set out on the 8th, early spring, snow already melting and the roads clear. Four days of story time later, they've outrun a bandit camp and a wolf pack, killed a leucrotta, and gone underground.
 </div>
 
 Fallmark runs on the **Common Reckoning**, a calendar a consortium of Central Plains city-states put together in the early post-Fracturing period so trade and governance would have one shared dating system. It's used almost everywhere now, though plenty of cultures keep their own traditional calendars alongside it for religious or cultural purposes.

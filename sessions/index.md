@@ -48,6 +48,12 @@ subtitle: "The story so far"
   <p>Digging in at the leucrotta's den for the night turned out to be the right call. A wolf pack and the wounded leucrotta both converged on the band's position at once. The pack didn't survive the fight. The leucrotta did, barely, and fled north. In a lull, a familiar scouting ahead found strange boulders pouring fog into the forest, a direction nobody can explain yet.</p>
 </div>
 
+<div class="session-entry">
+  <h3>Session 8: what the caller became</h3>
+  <p class="session-date">12th Meltmonth, 400 AF</p>
+  <p>The leucrotta came back to its den to die, calling out in every voice it had ever stolen at once. Dale finished it with a blow over Freddy's shoulder and took the head for Coppervane. The band then went into the boulders, found worked stone and a stair underneath, and fought their way through twig blights that wouldn't stay dead until they were burned. Kellen drank from a glowing basin and saw more than he bargained for, then used it to disarm a flooded room's trap by touch. The water is draining, and the next door is right in front of them.</p>
+</div>
+
 <!--
   Add a new entry above this comment after each session, in this format:
 

@@ -28,7 +28,13 @@ The forest Coppervane backs onto: logging trails, old growth, and more than a fe
   <li class="reveal-item" tabindex="0">
     <span class="reveal-name">The leucrotta's den</span>
     <div class="reveal-popout">
-      <p>Tracked by blood after a night fight in the fog, this is where the band confirmed Quinten Morton's death and later held their ground through a long night against a wolf pack and the wounded leucrotta both. The pack didn't survive it. The leucrotta did, badly hurt, and fled north. Strange boulders nearby, pouring fog, are still unexplained. See <a href="{{ '/mysteries/' | relative_url }}">Mysteries</a>.</p>
+      <p>Tracked by blood after a night fight in the fog, this is where the band confirmed Quinten Morton's death and later held their ground through a long night against a wolf pack and the wounded leucrotta both. The pack didn't survive it. The leucrotta did, barely, and came back here to die the next day.</p>
+    </div>
+  </li>
+  <li class="reveal-item" tabindex="0">
+    <span class="reveal-name">The ruin under the boulders</span>
+    <div class="reveal-popout">
+      <p>North of the den, where the fog comes from. Under the rubble is cut stone and a short stair down into something old and buried. So far: an antechamber full of leaf-litter and twig blights, a side room caved in almost to nothing, a round chamber of carved script around a basin of still, glowing water, and a corridor that floods, with darts in the walls and three dials under the water. The band stopped there, with the water draining and a door ahead. Nobody can read the carvings.</p>
     </div>
   </li>
   <li class="reveal-item" tabindex="0">

@@ -30,6 +30,13 @@ Gear with an actual effect, worth remembering you're carrying. Coin, mundane tri
       <p>Looted off an unluckier spellcaster who never made it out of that stretch of the Firwood either. Requires attunement by a spellcaster. Once attuned, an action regains one expended spell slot of 3rd level or lower. Usable once per dawn. Nobody's decided yet who's keeping it.</p>
     </div>
   </li>
+  <li class="reveal-item" tabindex="0">
+    <span class="reveal-name">A bronze handaxe</span>
+    <span class="reveal-meta">held by Freddy Flash, unidentified</span>
+    <div class="reveal-popout">
+      <p>Found buried in the stone wall beside a door in the flooded corridor of the ruin under the boulders, and pulled free with the band's crossing rope. Green with age everywhere except the edge, which is still bright. Whatever else it does, nobody knows yet.</p>
+    </div>
+  </li>
 </ul>
 
 <p class="placeholder-note">Updated after anything's found, used up, sold, or given away.</p>
