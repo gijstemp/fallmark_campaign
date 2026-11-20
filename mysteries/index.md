@@ -39,14 +39,7 @@ Not everything gets an answer the night you find it. Grouped by where it happene
     <span class="reveal-name">What the basin showed Kellen</span>
     <span class="reveal-meta">Session 8</span>
     <div class="reveal-popout">
-      <p>The water in the round chamber glows and never ripples. A cupful brought noise and half-pictures. A real drink brought more: hands sealing something shut in a hurry, the complete versions of the worn marks on the basin's rim, and a figure standing perfectly still somewhere deeper in, as if waiting. It left Kellen drained for the rest of the day.</p>
-    </div>
-  </li>
-  <li class="reveal-item" tabindex="0">
-    <span class="reveal-name">"Sealheart"</span>
-    <span class="reveal-meta">Session 8</span>
-    <div class="reveal-popout">
-      <p>A word whispered in Kellen's vision. Nobody knows what it means.</p>
+      <p>The water in the round chamber glows and never ripples. A cupful brought noise and half-pictures. A real drink brought more: hands sealing something shut in a hurry, the complete versions of the worn marks on the basin's rim, and a figure standing perfectly still somewhere deeper in, as if waiting. It left Kellen drained for the rest of the day. The figure turned out to be the guardian, and when its shell split it made a sound in the same rhythm as the whispers. Who was doing the sealing, and why in such a hurry, nobody knows.</p>
     </div>
   </li>
   <li class="reveal-item" tabindex="0">
@@ -54,6 +47,34 @@ Not everything gets an answer the night you find it. Grouped by where it happene
     <span class="reveal-meta">Session 8</span>
     <div class="reveal-popout">
       <p>The twig blights in the first room got back up after being cut apart. Fire kept them down. Nobody knows why they came back.</p>
+    </div>
+  </li>
+  <li class="reveal-item" tabindex="0">
+    <span class="reveal-name">Who is the Tallyman?</span>
+    <span class="reveal-meta">Session 9</span>
+    <div class="reveal-popout">
+      <p>The dead man's journal says the Tallyman sent his people back into the ruin again and again, knowing every trip widened the crack. The voice outside said the Tallyman has to be the one to get the treasure. The band has it now.</p>
+    </div>
+  </li>
+  <li class="reveal-item" tabindex="0">
+    <span class="reveal-name">Vess</span>
+    <span class="reveal-meta">Session 9</span>
+    <div class="reveal-popout">
+      <p>According to the journal, she called the leucrotta into this stretch of the Firwood on the Tallyman's orders, to keep people away from the ruin. According to the voice outside, she sent a new group to look into the fog. Nobody has seen her.</p>
+    </div>
+  </li>
+  <li class="reveal-item" tabindex="0">
+    <span class="reveal-name">The shorthand and the knotted button</span>
+    <span class="reveal-meta">Session 9</span>
+    <div class="reveal-popout">
+      <p>The last paragraph of the dead man's journal is written in marks nobody can read. Dimble has seen the same shorthand before, on a visit to the Stitch and Bitch Collective in Coppervane. The dead man also had a button tied off in a deliberate, unusual knot. Dale has it.</p>
+    </div>
+  </li>
+  <li class="reveal-item" tabindex="0">
+    <span class="reveal-name">"Six marked, three still owed"</span>
+    <span class="reveal-meta">Session 9</span>
+    <div class="reveal-popout">
+      <p>Something the dead man overheard the Tallyman say to Vess. He guessed "marked" means found. Found what, and where, he didn't know.</p>
     </div>
   </li>
 </ul>
@@ -94,6 +115,20 @@ Not everything gets an answer the night you find it. Grouped by where it happene
 ## Figured Out, Eventually
 
 <ul class="reveal-list">
+  <li class="reveal-item" tabindex="0">
+    <span class="reveal-name">"Sealheart"</span>
+    <span class="reveal-meta">Session 8, answered in Session 9</span>
+    <div class="reveal-popout">
+      <p>The word from Kellen's vision. It's the warm black stone that hung above the dais in the guardian's chamber. Kellen took it and identified it, see Notable Possessions.</p>
+    </div>
+  </li>
+  <li class="reveal-item" tabindex="0">
+    <span class="reveal-name">Where the fog and the leucrotta came from</span>
+    <span class="reveal-meta">Session 9</span>
+    <div class="reveal-popout">
+      <p>Neither was natural. The dead man's journal says the Tallyman's people were drawing something out of the ruin, and every trip widened a crack in the thing they were drawing it from. The fog seems to come out of that crack. Vess called the leucrotta in to keep people away while they worked.</p>
+    </div>
+  </li>
   <li class="reveal-item" tabindex="0">
     <span class="reveal-name">Boulders that breathe fog</span>
     <span class="reveal-meta">Session 7, answered in Session 8</span>

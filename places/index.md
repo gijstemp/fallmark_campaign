@@ -34,7 +34,7 @@ The forest Coppervane backs onto: logging trails, old growth, and more than a fe
   <li class="reveal-item" tabindex="0">
     <span class="reveal-name">The ruin under the boulders</span>
     <div class="reveal-popout">
-      <p>North of the den, where the fog comes from. Under the rubble is cut stone and a short stair down into something old and buried. So far: an antechamber full of leaf-litter and twig blights, a side room caved in almost to nothing, a round chamber of carved script around a basin of still, glowing water, and a corridor that floods, with darts in the walls and three dials under the water. The band stopped there, with the water draining and a door ahead. Nobody can read the carvings.</p>
+      <p>North of the den, where the fog comes from. Under the rubble is cut stone and a short stair down into something old and buried. Inside: an antechamber full of leaf-litter and twig blights, a side room caved in almost to nothing, a round chamber of carved script around a basin of still, glowing water, and a corridor that floods, with darts in the walls and three dials under the water. Past that, a vast round vault where a guardian of root and old armor stood watch over a warm stone dais. The band put it down and took the stone from the dais. Off to one side is a small, dry room that hadn't been touched in centuries, where a lantern was still burning. Nobody can read the carvings.</p>
     </div>
   </li>
   <li class="reveal-item" tabindex="0">

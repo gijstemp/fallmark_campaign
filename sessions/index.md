@@ -54,6 +54,12 @@ subtitle: "The story so far"
   <p>The leucrotta came back to its den to die, calling out in every voice it had ever stolen at once. Dale finished it with a blow over Freddy's shoulder and took the head for Coppervane. The band then went into the boulders, found worked stone and a stair underneath, and fought their way through twig blights that wouldn't stay dead until they were burned. Kellen drank from a glowing basin and saw more than he bargained for, then used it to disarm a flooded room's trap by touch. The water is draining, and the next door is right in front of them.</p>
 </div>
 
+<div class="session-entry">
+  <h3>Session 9: what the seal was holding</h3>
+  <p class="session-date">12th Meltmonth, 400 AF</p>
+  <p>Outside the last door the band found a dead man clutching a warning to run, and a journal page that named a "Tallyman" and a woman called Vess, who had called the leucrotta here on purpose. Its last lines were in a shorthand nobody could read, though Dimble had seen it before at the Stitch and Bitch Collective. Kellen threw fire at the guardian inside before anyone else could decide, went down in the fight that followed, and lived with a ruined face. Freddy split the guardian open with one leap, and Kellen pulled a warm black stone off the dais it was guarding. On the way out, with the lantern and the stone in hand, they heard someone outside say that Vess had sent them, and that the Tallyman had to be the one to get what was inside.</p>
+</div>
+
 <!--
   Add a new entry above this comment after each session, in this format:
 

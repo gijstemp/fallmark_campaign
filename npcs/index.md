@@ -129,3 +129,22 @@ Grouped by where you met them. See <a href="{{ '/places/' | relative_url }}">Pla
     </div>
   </li>
 </ul>
+
+## In the Ruin Under the Boulders
+
+<ul class="reveal-list">
+  <li class="reveal-item" tabindex="0">
+    <span class="reveal-name">The dead man at the door</span>
+    <span class="reveal-meta">name unknown</span>
+    <div class="reveal-popout">
+      <p>Found face down outside the guardian's chamber, weeks dead, one arm reaching back toward the way out. He carried an alchemist's kit, a scrawled note reading "guardian beware. RUN!", a button tied off in an odd knot, and a journal page. The page says he worked for someone he called the Tallyman, drawing something out of the ruin, and that he refused to go back a third time.</p>
+    </div>
+  </li>
+  <li class="reveal-item" tabindex="0">
+    <span class="reveal-name">The voice outside</span>
+    <span class="reveal-meta">not yet seen</span>
+    <div class="reveal-popout">
+      <p>Heard from just outside the boulders as the band was leaving. Whoever it was said Vess had sent them to check on the fog and the ruin, and that the Tallyman has to be the one to get what's inside.</p>
+    </div>
+  </li>
+</ul>
