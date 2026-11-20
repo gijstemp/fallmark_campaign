@@ -71,10 +71,10 @@ Not everything gets an answer the night you find it. Grouped by where it happene
     </div>
   </li>
   <li class="reveal-item" tabindex="0">
-    <span class="reveal-name">"Six marked, three still owed"</span>
+    <span class="reveal-name">"Nine found, three recovered, six still open"</span>
     <span class="reveal-meta">Session 9</span>
     <div class="reveal-popout">
-      <p>Something the dead man overheard the Tallyman say to Vess. He guessed "marked" means found. Found what, and where, he didn't know.</p>
+      <p>Something the dead man overheard the Tallyman say to Vess. He'd only ever been inside one of these places himself, the ruin under the boulders, and didn't know where the others were or what the count was for.</p>
     </div>
   </li>
 </ul>
